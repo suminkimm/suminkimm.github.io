@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.b3eeecd7.chunk.js",
+    "main.js.map": "/static/js/main.b3eeecd7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce89729d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce89729d.js.map",
+    "static/css/2.7550f3b0.chunk.css": "/static/css/2.7550f3b0.chunk.css",
+    "static/js/2.8120e4f1.chunk.js": "/static/js/2.8120e4f1.chunk.js",
+    "static/js/2.8120e4f1.chunk.js.map": "/static/js/2.8120e4f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d8fed6909b24678fa4d185ea4e96aee3.js": "/precache-manifest.d8fed6909b24678fa4d185ea4e96aee3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7550f3b0.chunk.css.map": "/static/css/2.7550f3b0.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8120e4f1.chunk.js.LICENSE.txt": "/static/js/2.8120e4f1.chunk.js.LICENSE.txt",
+    "static/media/Bloom.png": "/static/media/Bloom.a59e2595.png",
+    "static/media/Emotinews.png": "/static/media/Emotinews.4c6dd91f.png",
+    "static/media/RecipeBook.png": "/static/media/RecipeBook.aace551c.png",
+    "static/media/Su Min Kim Resume.pdf": "/static/media/Su Min Kim Resume.20f6b6cd.pdf",
+    "static/media/socialTrackerMainPic.png": "/static/media/socialTrackerMainPic.e5f22853.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce89729d.js",
+    "static/css/2.7550f3b0.chunk.css",
+    "static/js/2.8120e4f1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b3eeecd7.chunk.js"
+  ]
+}
