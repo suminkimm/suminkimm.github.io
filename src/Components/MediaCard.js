@@ -3,8 +3,8 @@ import { Card, CardActionArea, CardActions, CardContent, CardMedia, Typography, 
 
 import Bloom from '../assets/Bloom.png'
 import socialTrackerMainPic from '../assets/socialTrackerMainPic.png'
-import RecipeBook from '../assets/RecipeBook.png'
 import Emotinews from '../assets/Emotinews.png'
+import c2k from '../assets/c2k.png'
 
 const useStyles = makeStyles({
     root: {
@@ -21,15 +21,14 @@ function MediaCard({title, body, image, codeURL, modalOpen, isVideo, demo}) {
 
     return (
         <Card className={classes.root}>
-            {/* <CardActionArea onClick={() => {}}> */}
                 <CardMedia
                     className={classes.media}
                     image={
                         image == "Bloom" ? Bloom 
                         : image == "socialTrackerMainPic" ? socialTrackerMainPic
-                        : image == "RecipeBook" ? RecipeBook
                         : image == "Emotinews" ? Emotinews
-                        : ""
+                        : image == "c2k" ? c2k
+                        : image == ""
                     }
                 />
                 <CardContent>
@@ -40,7 +39,6 @@ function MediaCard({title, body, image, codeURL, modalOpen, isVideo, demo}) {
                         {body}
                     </Typography>
                 </CardContent>
-            {/* </CardActionArea> */}
             <CardActions style={{ display: "flex", justifyContent: "space-between" }}>
                 <Button size="small" color="primary" onClick={() => window.location.href=codeURL}>
                 View Code
@@ -53,7 +51,7 @@ function MediaCard({title, body, image, codeURL, modalOpen, isVideo, demo}) {
                         }
                     }}
                 >
-                View Demo
+                {isVideo ? "View Demo" : "View Details"}
                 </Button>
             </CardActions>
         </Card>

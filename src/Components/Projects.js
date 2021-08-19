@@ -16,6 +16,14 @@ function Projects() {
 
     const projectsArray = [
         {
+            title: "Computers2Kids",
+            body: "A React Native mobile application for Computers2Kids, a nonprofit that recycles donated computers for those in need.",
+            image: "c2k",
+            codeURL: "https://github.com/dfgc2k",
+            isVideo: false,
+            demo: "https://developforgood.medium.com/computers2kids-a-mobile-application-to-better-enable-low-income-families-to-gain-access-to-c2ks-b0b9e0c173db"
+        }, 
+        {
             title: "SocialTracker",
             body: "A React Native mobile application that allows the user to monitor his/her social time and social circle.",
             image: "socialTrackerMainPic",
@@ -38,14 +46,6 @@ function Projects() {
             codeURL: "https://github.com/suminkimm/Emotinews",
             isVideo: true,
             demo: "Lv3cRtqh5Qg"
-        },
-        {
-            title: "The Recipe Book",
-            body: "A PHP web application that allows users to create and share their favorite recipes with an online community.",
-            image: "RecipeBook",
-            codeURL: "https://github.com/suminkimm/TheRecipeBook",
-            isVideo: false,
-            demo: "http://suminkimm.com/TheRecipeBook/index.php"
         },
     ]
 

@@ -8,7 +8,7 @@ function About() {
           <Box fontWeight="fontWeightLight" fontSize="h5.fontSize" mt={2}>
               Hi there! Thank you for visiting my site 😊. 
               I'm currently pursuing a <span style={{color: '#3dace3'}}>B.S. in Computer Science </span> 
-              at Rutgers University as well as a <span style={{color: '#3eab85'}}>Biology minor</span> for fun. 
+              at Rutgers University as well as a <span style={{color: '#3eab85'}}>Biology minor</span>. 
           </Box>
           
           <Box fontWeight="fontWeightLight" fontSize="h5.fontSize" mt={2}>

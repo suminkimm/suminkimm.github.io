@@ -33,7 +33,7 @@ function MainBanner() {
               />
               </Typography>
             </Box>
-            <Typography variant="h5">I'm an aspiring software engineer and mobile/web app developer</Typography>
+            <Typography variant="h5">I'm an aspiring software engineer and frontend/full-stack developer</Typography>
             <Typography variant="h5">with an avid interest in design.</Typography>
             <Box mt={2}>
               <Typography variant="h5" color="secondary">@ Rutgers University - New Brunswick</Typography>
