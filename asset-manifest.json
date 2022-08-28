@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.b6a42275.chunk.js",
+    "main.js.map": "/static/js/main.b6a42275.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d35a3416.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d35a3416.js.map",
+    "static/css/2.2ca9bed3.chunk.css": "/static/css/2.2ca9bed3.chunk.css",
+    "static/js/2.94b58c66.chunk.js": "/static/js/2.94b58c66.chunk.js",
+    "static/js/2.94b58c66.chunk.js.map": "/static/js/2.94b58c66.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2ca9bed3.chunk.css.map": "/static/css/2.2ca9bed3.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.94b58c66.chunk.js.LICENSE.txt": "/static/js/2.94b58c66.chunk.js.LICENSE.txt",
+    "static/media/Bloom.4cdac509.png": "/static/media/Bloom.4cdac509.png",
+    "static/media/Emotinews.8c209159.png": "/static/media/Emotinews.8c209159.png",
+    "static/media/Su Min Kim Resume.6e582a8c.pdf": "/static/media/Su Min Kim Resume.6e582a8c.pdf",
+    "static/media/c2k.2ec62643.png": "/static/media/c2k.2ec62643.png",
+    "static/media/socialTrackerMainPic.6515f5ed.png": "/static/media/socialTrackerMainPic.6515f5ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d35a3416.js",
+    "static/css/2.2ca9bed3.chunk.css",
+    "static/js/2.94b58c66.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b6a42275.chunk.js"
+  ]
+}
