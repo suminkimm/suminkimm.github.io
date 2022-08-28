@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Container, Button, Grid, Typography } from '@material-ui/core';
+import { Box, Container, Typography } from '@material-ui/core';
 
 function About() {
     return (

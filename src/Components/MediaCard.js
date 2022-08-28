@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardActionArea, CardActions, CardContent, CardMedia, Typography, makeStyles, Button } from '@material-ui/core';
+import { Card, CardActions, CardContent, CardMedia, Typography, makeStyles, Button } from '@material-ui/core';
 
 import Bloom from '../assets/Bloom.png'
 import socialTrackerMainPic from '../assets/socialTrackerMainPic.png'
@@ -24,11 +24,11 @@ function MediaCard({title, body, image, codeURL, modalOpen, isVideo, demo}) {
                 <CardMedia
                     className={classes.media}
                     image={
-                        image == "Bloom" ? Bloom 
-                        : image == "socialTrackerMainPic" ? socialTrackerMainPic
-                        : image == "Emotinews" ? Emotinews
-                        : image == "c2k" ? c2k
-                        : image == ""
+                        image === "Bloom" ? Bloom 
+                        : image === "socialTrackerMainPic" ? socialTrackerMainPic
+                        : image === "Emotinews" ? Emotinews
+                        : image === "c2k" ? c2k
+                        : image === ""
                     }
                 />
                 <CardContent>

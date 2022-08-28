@@ -51,7 +51,7 @@ function Projects() {
 
     return (
         <Container maxWidth="md">
-            <Typography variant="h3">Projects</Typography>
+            <Typography variant="h3">Side Projects</Typography>
             <Box mt={5} mb={15}>
                 <Grid container>
                     <Grid item xs={12}>
